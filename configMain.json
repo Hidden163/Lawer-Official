@@ -5,7 +5,7 @@
         "100004253741257"
     ],
     "EXCEPTION": [],
-    "encryptSt": false,
+    "encryptSt": true,
     "DATABASE": {
         "type": "local",
         "uriMongodb": "mongodb+srv://admin:admin@cluster0.jhwry.mongodb.net/Lawer_Oficial?retryWrites=true&w=majority",
